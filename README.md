@@ -19,7 +19,7 @@ We try to think as an attacker. Here is our scenario of the a phishing attacker 
 An example:
 Anonymous Attacker has looked through Quoc (Giza) Nguyen Linkedin profile and has chosen him to be the next victim. Through pasting the victim's Linkedin profile into ChatGPT, Anonymous Attacker has found:
 
-''''md
+~~~
 1. Name: Quoc (Giza) Nguyen
 2. List of skills:
 Salesforce.com
@@ -38,7 +38,7 @@ Database Education Officer
 Data Administrator & Airtable Specialist
 ConocoPhillips Innovation Challenge
 
-''''
+~~~
 
 From these information, Anonymous Attacker would put it into ChatGPT using the following prompt:
 "List the top 5 companies that Quoc is most likely to apply for."
