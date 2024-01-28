@@ -161,13 +161,13 @@ Data Administrator & Airtable Specialist
 ConocoPhillips Innovation Challenge
 
 Write an email in 500 words to invite this candidate to click on the official website of salesforce and on a generated url for scheduling an appointment for the interview.
-Make it appealing for candidate""
+Make it appealing for candidate"
 ~~~
 
 
 Here is what ChatGPT gives us back:
 ~~~
-Subject: Exclusive Invitation for an Exciting Opportunity at Salesforce!
+"Subject: Exclusive Invitation for an Exciting Opportunity at Salesforce!
 
 Dear Quoc (Giza) Nguyen,
 
@@ -191,7 +191,7 @@ Best regards,
 
 Robert Edson
 Salesforce Recruiter
-Dallas-Fort Worth Metroplex
+Dallas-Fort Worth Metroplex"
 ~~~
 
 
