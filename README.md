@@ -110,10 +110,12 @@ robert.edson@salesforce.com
 However, here is the catch! To make the phishing more trusting, the attackers may check if the emails and phone numbers have been used by simply putting them into the websites such as:
 ~~~
 https://email-checker.net/check
-~~~~
-![Robert Edson Contact Info](https://github.com/conan-nhat-nguyen/phishing-email-detector/blob/main/robert-edson-contact-info.png)
-
+~~~
+![Email Checker](https://github.com/conan-nhat-nguyen/phishing-email-detector/blob/main/email-checker.png)
+~~~
 https://www.numlookup.com/report
+~~~
+![Robert Edson Contact Info](https://github.com/conan-nhat-nguyen/phishing-email-detector/blob/main/robert-edson-contact-info.png)
 
 
 Good! If the Anonymous Attacker wants to be extra-trustworthy, the Anonymous Attacker may make that account robert.edson@salesforce.com and/or may make the phone number 9134851234 to contact the potential victim. 
