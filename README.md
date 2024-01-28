@@ -210,9 +210,9 @@ This is where our solution comes in – a phishing emails detection system with 
 
 
 
-## 2. <a name="section-2">2. Our Prevention Solution.</a>
+## <a name="section-2">2. Our Prevention Solution.</a>
 
-## 3. <a name="section-3">3. The Future of Our Solution.</a>
+## <a name="section-3">3. The Future of Our Solution.</a>
 
-## 4. <a name="section-4">4. Sandia's Step-by-Step Approach to deploy our idea in action.</a>
+## <a name="section-4">4. Sandia's Step-by-Step Approach to deploy our idea in action.</a>
 
