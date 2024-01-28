@@ -204,8 +204,13 @@ This is where our solution comes in – a phishing emails detection system with 
 
 
 ## <a name="section-2">2. Our Prevention Solution.</a>
+We use two versions of the appliction: a Chrome extension and a web application.
 
 ## <a name="section-3">3. The Future of Our Solution.</a>
+- We hope to integrate unit testing to make sure our project has no underlying bugs.
 
-## <a name="section-4">4. Sandia's Step-by-Step Approach to deploy our idea in action.</a>
-
+## <a name="section-4">4. Why Should Sandia Consider Our Porjectn.</a>
+1. It is effective, using Google's API.
+2. It is feasible.
+3. It is scalable.
+4. It is user-friendly.
