@@ -9,9 +9,9 @@ ___
 
 ## Table of Contents
 ### [1. The Attacker's Mindset. ](#section-1)
-### 2. Our Prevention Solution
-### 3. The Future of Our Solution
-### 4. Sandia's Step-by-Step Approach to deploy our idea in action.
+### [2. Our Prevention Solution.](#section-2)
+### [3. The Future of Our Solution.](#section-3)
+### [4. Sandia's Step-by-Step Approach to deploy our idea in action.](#section-4)
 
 ___
 
@@ -210,9 +210,9 @@ This is where our solution comes in – a phishing emails detection system with 
 
 
 
-## 2. Our Prevention Solution
+## 2. <a name="section-2">2. Our Prevention Solution.</a>
 
-## 3. The Future of Our Solution
+## 3. <a name="section-3">3. The Future of Our Solution.</a>
 
-## 4. Sandia's Step-by-Step Approach to deploy our idea in action.
+## 4. <a name="section-4">4. Sandia's Step-by-Step Approach to deploy our idea in action.</a>
 
