@@ -9,6 +9,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    height: 95vh;
+    /* Adjust as needed */
     flex-direction: column;
     /* Set flex direction to column */
 }
@@ -16,7 +18,6 @@ body {
 #duplicateList,
 #linkList,
 #newArray {
-    display: none;
     display: none;
 }
 
