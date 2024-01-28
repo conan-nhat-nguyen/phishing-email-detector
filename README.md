@@ -111,7 +111,7 @@ However, here is the catch! To make the phishing more trusting, the attackers ma
 ~~~
 https://email-checker.net/check
 ~~~~
-![alt text]([http://url/to/img.png](https://github.com/conan-nhat-nguyen/phishing-email-detector/blob/main/robert-edson-contact-info.png))
+![Robert Edson Contact Info](https://github.com/conan-nhat-nguyen/phishing-email-detector/blob/main/robert-edson-contact-info.png)
 
 https://www.numlookup.com/report
 
