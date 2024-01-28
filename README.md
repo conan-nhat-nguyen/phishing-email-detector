@@ -46,13 +46,14 @@ From these information, Anonymous Attacker would put it into ChatGPT using the f
 
 From ChatGPT: 
 
-
+~~~
 "Certainly, here is a list of five types of companies or industries where Quoc Giza Nguyen might be most likely to apply:
 Salesforce Consulting Firms
 Technology Companies with a Focus on AI and Machine Learning
 Cloud Computing Providers (e.g., AWS, Microsoft Azure, Google Cloud)
 Companies in the Beauty and Cosmetics Industry
 Consulting Firms Specializing in Business Process Optimization"
+~~~
 
 From that, Anonymous Attacker would use Salesforce Consulting Firms to send a phishing email to Quoc. Through webscraping, the attacker may find the name of a hiring manager at Salesforce on Linkedin:
 Name: Robert Edson
@@ -71,6 +72,7 @@ Phone Number: starting at:
 
 The Anonymous Attacker could sign up to one of the open-source intelligence agencies to get the rest of the four digits. However, this may not be necessary. Why? Yes, ChatGPT.
 The Anonymous Attacker continues to prompt ChatGPT:
+~~~
 "Generate 5 emails ending in '@salesforce.com' using the following information:
 Name: Robert Edson
 Location: Dallas-Fort Worth Metroplex.
@@ -79,10 +81,12 @@ Also, generate a list of 5 randomly-generated phone numbers from this:
 503409XXXX 
 913488XXXX 
 713485XXXX 
-617619XXXX "
+617619XXXX"
+~~~
 
 Here is ChatGPT's response:
 
+~~~
 Certainly, here are five email addresses ending in '@salesforce.com' for Robert Edson based in the Dallas-Fort Worth Metroplex:
 robert.edson@salesforce.com
 r.edson@salesforce.com
@@ -95,15 +99,19 @@ And here is a list of five randomly-generated phone numbers:
 9134887890
 7134852345
 6176198765
+~~~
 
 The Anonymous Attacker then decided to use the top result as the "fake" email and phone number for phishing purposes:
+~~~
 robert.edson@salesforce.com 
 9134851234
+~~~
 
 However, here is the catch! To make the phishing more trusting, the attackers may check if the emails and phone numbers have been used by simply putting them into the websites such as:
-
+~~~
 https://email-checker.net/check
-
+~~~~
+![alt text](http://url/to/img.png)
 
 https://www.numlookup.com/report
 
