@@ -1,5 +1,6 @@
 # phishing-email-detector
 <img src="https://github.com/conan-nhat-nguyen/phishing-email-detector/blob/main/logo.png" width="100" height="100">
+
 ## This is our TAMUhack X application and chrome-extension for detecting phishing emails.
 ## Date: January 28th, 2024 CST
 ## Location: Texas A&M - Memorial Student Center
