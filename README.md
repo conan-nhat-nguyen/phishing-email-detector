@@ -8,14 +8,14 @@
 ___
 
 ## Table of Contents
-### 1. The Attacker's Mindset. 
+### [1. The Attacker's Mindset. ](#section-1)
 ### 2. Our Prevention Solution
 ### 3. The Future of Our Solution
 ### 4. Sandia's Step-by-Step Approach to deploy our idea in action.
 
 ___
 
-## 1. The Attacker's Mindset. 
+## <a name="section-1">1. The Attacker's Mindset. </a>
 We try to think as an attacker. Here is our scenario of the a phishing attacker who web scrape personally identifiable information (PII) of users from Linkedin in addition with the highly valuable personal information scraped from their social media profiles (such as, Facebook) to prompt large language model (LLM) (in this case, ChatGPT) to draft emails to potential victims to ask them to send sensitive personal information (e.g. credit card information) to fake AI-generated emails.
 
 An example:
