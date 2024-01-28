@@ -21,16 +21,19 @@ Anonymous Attacker has looked through Quoc (Giza) Nguyen Linkedin profile and ha
 
 ~~~
 1. Name: Quoc (Giza) Nguyen
+
 2. List of skills:
 Salesforce.com
 Microsoft Excel
 Automation
 Debugging
 Problem Solving
+
 3. List of companies Quoc has worked for:
 Xtreme Lashes by Jo Mousselli
 Rockwell Career Center
 International University - VNU HCMC
+
 4. Quoc's extracurricular activities:
 Salesforce Workshops
 MISSO Technology Officer
