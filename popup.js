@@ -99,6 +99,7 @@ async function checkUrl(urlInput) {
 
         // Handle the API response
         const data = await response.json();
+        console.log(data);
         displayResult(data);
     } catch (error) {
         // Handle errors
